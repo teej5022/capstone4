@@ -7,6 +7,7 @@ export function Navbar() {
         <div className="navbar">
             <Link to="/">Home</Link>
             <Link to="/Lord">Lords</Link>
+            <Link to="/Fellowship">Fellowship</Link>
             <Link to="/About">About</Link>
             <Link to="/Contact">Contact</Link>
         </div>

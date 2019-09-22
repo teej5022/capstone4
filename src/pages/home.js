@@ -24,6 +24,12 @@ const Home = () => {
             <div>
                 <hr />
             </div>
+            <div className="what-what-what">
+                <p>Go to the Fellowship link to create your own fellowship!</p>
+            </div>
+            <div>
+                <hr />
+            </div>
             <div className="what-what">
                 <p>To learn more about me, go to my about page. Also, learn how to reach out to me on the contact page</p>
             </div>

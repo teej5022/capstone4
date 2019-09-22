@@ -64,6 +64,7 @@ h1 {
   color: #ff0099;
   font-weight: bold;
   text-shadow: 0px 1px black;
+  
 }
 
 .about-img {
@@ -79,10 +80,20 @@ h1 {
   color: #ff0099;
 }
 
-.List {
-  color: #4287f5;
-  border: 2px solid black;
-  padding: 40px;
-  font-size: 35px;  
-  background: white; 
+p {
+  text-align: center;
+  font-family: 'Crimson Text', serif;
+  font-size: 35px;
+  color: #ff0099;
 }
+
+.what-what-what {
+  color:#c75d12;
+  font-weight: bold;
+  text-shadow: 1px 1px #1c1515;
+  text-align: center;
+  padding: 30px;
+  font-family: 'Crimson Text', serif;
+  font-size: 35px;
+}
+
